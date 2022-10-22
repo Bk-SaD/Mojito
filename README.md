@@ -1,26 +1,16 @@
 # `Ｍｏｊｉｔｏ暗殺者`
 
-### `🦌NO SOY EL CREADOR.. CREDITOS A QUIEN LE CORRESPONDA`
+### `🦍NO SOY EL CREADOR.. CREDITOS A QUIEN LE CORRESPONDA`
 <a href="http://wa.me/559581232171" target="blank"><img src="https://img.shields.io/badge/Mojito_EDITOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `—◉ 💟 GRUPO DE SOPORTE 💟`
+### `—◉ GRUPO DE 𝕮 𝖔 𝖗 𝖓 𝖚 𝖉 𝖔 𝖘 🦌`
 
-<a href="https://chat.whatsapp.com/DNJ4Ppm5ysn3fhjGflrr0J" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/J8rs6txJVHR9PaBGK5cASY" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_DESMADRE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
 
-### `—◉ 🤖 BOTS OFICIALES 🤖`
-
-<a href="https://api.whatsapp.com/send/?phone=5219993404349&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
  > NO SPAMEAR COMANDOS
-
-### `—◉ 💰 DONAR 💰`
-- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/TheShadowBrokers133)
-
-### `—◉ 🖍 LETRA DEL BOT 🖍`
-- PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
 
 ### `—◉ 💡 EXPERIMENTA CON UNA IA PARA NUEVOS COMANDOS 💡`
 - PAGINA [Aqui](https://beta.openai.com/playground)
@@ -30,60 +20,14 @@
   
 ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
 
-[![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/BrunoSobrino/TheMystic-Bot-MD)
+[![Run on Repl.it](https://repl.it/badge/github/Bk-SaD/Mojito)](https://repl.it/github/Bk-SaD/Mojito)
 
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/TheMystic-Bot-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bk-SaD/Mojito)
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
-
-### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
-- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-```bash
-cd && termux-setup-storage
-```
-
-```bash
-apt-get update -y && apt-get upgrade -y
-```
-
-```bash
-pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
-```
-
-```bash
-git clone https://github.com/BrunoSobrino/Mystic-termux.git && cd Mystic-termux
-```
-
-```bash
-yarn install
-```
-
-```bash
-npm install
-```
-
-```bash
-npm update
-```
-
-```bash
-npm install
-```
-
-```bash
-npm start
-```
-
-### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️`
-```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd Mystic-termux
-> npm start
-```
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/Bk-SaD/Mojito/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Bk-SaD/Mojito/blob/master/config.js)
 
 ### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
 - DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Mystic-termux $  
