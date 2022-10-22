@@ -1,6 +1,6 @@
 import { webp2png } from '../lib/webp2mp4.js'
 let handler = async (m, { conn, usedPrefix, command }) => {
-const notStickerMessage = `*[❗𝐈𝐍𝐅𝐎❗] 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙰 𝙰𝙻 𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝚀𝚄𝙴 𝙳𝙴𝚂𝙴𝙴 𝙲𝙾𝙽𝚅𝙴𝚁𝚃𝙸𝚁 𝙴𝙽 𝙸𝙼𝙰𝙶𝙴𝙽 𝙲𝙾𝙽 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 ${usedPrefix + command}*`
+const notStickerMessage = `*❗ ᴿᵉˢᵖᵒⁿᵈᵃ ᵃˡ ˢᵗⁱᶜᵏᵉʳ qᵘᵉ ᵈᵉˢᵉᵃ ᶜᵒⁿᵛᵉʳᵗⁱʳ ᵉⁿ ⁱᵐᵃᵍᵉⁿ\n𝙲𝙾𝙼𝙰𝙽𝙳𝙾 ${usedPrefix + command}*`
 if (!m.quoted) throw notStickerMessage
 const q = m.quoted || m
 let mime = q.mediaType || ''
