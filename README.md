@@ -1,14 +1,12 @@
 # `Ｍｏｊｉｔｏ暗殺者`
 
-<p align="center">
-<img src="https://github.com/shanduy/ShanBot/blob/main/temples/ezgif-4-5e4fce2c4bbe.gif" alt="GIF" width="500" height="281"/>
-</p>
+<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/Bk-SaD/Mojito/master/src/mosca.gif" width="450" height="400" alt="GIF"/></a>
 
 ### `🦍NO SOY EL CREADOR.. CREDITOS A QUIEN LE CORRESPONDA`
 <a href="http://wa.me/559581232171" target="blank"><img src="https://img.shields.io/badge/Mojito_EDITOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `—◉ 𝕮 𝖔 𝖗 𝖓 𝖚 𝖉 𝖔 𝖘 🦌`
+### `◉ 𝕮 𝖔 𝖗 𝖓 𝖚 𝖉 𝖔 𝖘 🦌`
 
 <a href="https://chat.whatsapp.com/J8rs6txJVHR9PaBGK5cASY" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_DESMADRE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
@@ -16,18 +14,18 @@
 
  > NO SPAMEAR COMANDOS 🚫
 
-### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+### `◉ 👥 ACTIVAR EN REPLIT`
 
 [![Run on Repl.it](https://repl.it/badge/github/Bk-SaD/Mojito)](https://repl.it/github/Bk-SaD/Mojito)
 
-### `—◉ ✨ ACTIVAR EN HEROKU ✨`
+### `◉ 🫧 ACTIVAR EN HEROKU `
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bk-SaD/Mojito)
 
-### `—◉ ⚙️ AJUSTES ⚙️`
+### `◉ ⚙️ AJUSTES`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/Bk-SaD/Mojito/fork)
 - CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Bk-SaD/Mojito/blob/master/config.js)
 
-### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
+### `◉🔥 ACTIVAR EN BOXMINEHOST`
 <a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/Bk-SaD/Mojito/master/src/Pre%20Bot%20Publi.png" width="450" height="400" alt="JPG"/></a>
 - Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
 - Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
@@ -35,13 +33,13 @@
 - Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/eC9TfKICpcY)
 - Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
   
-### `—◉ 💥 ACTIVAR EN ACIDICNODES 💥`
+### `◉ 💥 ACTIVAR EN ACIDICNODES 💥`
 <a href="https://billing.acidicnodes.ml/register?ref=ADII104p"><img src="https://billing.acidicnodes.ml/storage/icon.png" width="100" height="100" alt="acidicnodes"/></a>
 - TUTORIAL: [https://youtu.be/nbjvreJ0tUk](https://youtu.be/nbjvreJ0tUk)
 - PAGINA: [https://billing.acidicnodes.ml/register?ref=ADII104p](https://billing.acidicnodes.ml/register?ref=ADII104p)
 - SOPORTE: [https://whatsapp.acidicnodes.com](https://whatsapp.acidicnodes.com)
 
-### `—◉ 📝 NOTAS 📝`
+### `◉ 📝 NOTAS 📝`
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
 - SI VAS A EDITAR POR COMPLETO DEJA LOS CREDITOS DEL BOT 
 - EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
