@@ -4,20 +4,14 @@
 <a href="http://wa.me/559581232171" target="blank"><img src="https://img.shields.io/badge/Mojito_EDITOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `—◉ GRUPO DE 𝕮 𝖔 𝖗 𝖓 𝖚 𝖉 𝖔 𝖘 🦌`
+### `—◉ 𝕮 𝖔 𝖗 𝖓 𝖚 𝖉 𝖔 𝖘 🦌`
 
 <a href="https://chat.whatsapp.com/J8rs6txJVHR9PaBGK5cASY" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_DESMADRE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-> LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
+> EN ESE GRUPO CONVIVIMOS Y HACEMOS AMIGOS EN LAS REDES
 
- > NO SPAMEAR COMANDOS
+ > NO SPAMEAR COMANDOS 🚫
 
-### `—◉ 💡 EXPERIMENTA CON UNA IA PARA NUEVOS COMANDOS 💡`
-- PAGINA [Aqui](https://beta.openai.com/playground)
-
-### `—◉ 💕 PLUGINS 💕`
-- TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
-  
 ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
 
 [![Run on Repl.it](https://repl.it/badge/github/Bk-SaD/Mojito)](https://repl.it/github/Bk-SaD/Mojito)
@@ -28,16 +22,6 @@
 ### `—◉ ⚙️ AJUSTES ⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/Bk-SaD/Mojito/fork)
 - CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Bk-SaD/Mojito/blob/master/config.js)
-
-### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
-- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Mystic-termux $  
-```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd Mystic-termux
-> rm -rf MysticSession
-> npm start
-```
 
 ### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
 <a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
