@@ -1,5 +1,9 @@
 # `Ｍｏｊｉｔｏ暗殺者`
 
+<p align="center">
+<img src="https://github.com/shanduy/ShanBot/blob/main/temples/ezgif-4-5e4fce2c4bbe.gif" alt="GIF" width="500" height="281"/>
+</p>
+
 ### `🦍NO SOY EL CREADOR.. CREDITOS A QUIEN LE CORRESPONDA`
 <a href="http://wa.me/559581232171" target="blank"><img src="https://img.shields.io/badge/Mojito_EDITOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -24,7 +28,7 @@
 - CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Bk-SaD/Mojito/blob/master/config.js)
 
 ### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
+<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/Bk-SaD/Mojito/master/src/Pre%20Bot%20Publi.png" width="450" height="400" alt="JPG"/></a>
 - Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
 - Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
 - Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
