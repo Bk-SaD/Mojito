@@ -1,6 +1,6 @@
 # `Ｍｏｊｉｔｏ暗殺者`
 
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/Bk-SaD/Mojito/master/src/mosca.gif" width="450" height="400" alt="GIF"/></a>
+<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/Bk-SaD/Mojito/master/src/mosca.gif" width="450" height="250" alt="GIF"/></a>
 
 ### `🦍NO SOY EL CREADOR.. CREDITOS A QUIEN LE CORRESPONDA`
 <a href="http://wa.me/559581232171" target="blank"><img src="https://img.shields.io/badge/Mojito_EDITOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
