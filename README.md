@@ -23,13 +23,13 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bk-SaD/Mojito)
 
 ### `◉ ⚙️ AJUSTES`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/Bk-SaD/Mojito/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Bk-SaD/Mojito/blob/master/config.js)
+- CLONAR EL REPOSITORIO →[Aqui](https://github.com/Bk-SaD/Mojito/fork)
+- CAMBIAR NÚMERO DEL OWNER→[Aqui](https://github.com/Bk-SaD/Mojito/blob/master/config.js)
 
 ### `📷 INSTAGRAM`
 ![logo](https://cloud.githubusercontent.com/assets/1809268/15931032/2792427e-2e56-11e6-831e-ffab238cc4a2.png)
 
-Apóyame en Instagram [Click aquí](https://instagram.com/bk_lyrik)
+Apóyame en Instagram → [Aquí](https://instagram.com/bk_lyric)
 <a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/Bk-SaD/Mojito/master/src/Pre%20Bot%20Publi.png" width="450" height="400" alt="JPG"/></a>
 
 `By Brian Martins`
