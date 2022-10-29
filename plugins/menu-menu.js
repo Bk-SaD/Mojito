@@ -3,7 +3,7 @@ import fetch from 'node-fetch'
 let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text }) => {
 try {
 let vn = './media/menu.mp3'
-let pp = imagen4
+let pp = MoJito
 let img = await(await fetch('https://i.imgur.com/k95f9gS.jpeg')).buffer()
 let d = new Date(new Date + 3600000)
 let locale = 'es'
