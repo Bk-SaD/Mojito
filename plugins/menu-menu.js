@@ -530,7 +530,7 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: 'Ｍｏｊｉｔｏ暗殺者 - Sigueme en Instagram',
+title: 'Ｍｏｊｉｔｏ暗殺者\nSigueme en Instagram',
 body: null,
 thumbnail: img,
 sourceUrl: `https://Instagram.com/bk_lyric`
